@@ -1,2 +1,3 @@
 # git_test
-The Odin Project GitHub practice 
+The Odin Project GitHub practice
+Hello Odin!
